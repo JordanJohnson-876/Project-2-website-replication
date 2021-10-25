@@ -5,13 +5,13 @@ body {
     font-family: 'Questrial', sans-serif;
     font-size: 18px;
     font-weight: 600;
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(236, 236, 236);
 }
 
 .navbar {
     margin-left: auto;
     margin-right: auto;
-    width:auto;
+    width:1520px;
     height: 61px;
     background-color:white;
 }
@@ -37,7 +37,7 @@ ul {
     list-style: none;
 }
 /*......................................Box1................................*/
-.box1   {width:auto;
+.box1   {width:1520px;
         height: 300px;
         background-color:#4a3933;
         margin-left: auto;
@@ -69,7 +69,9 @@ p {margin-left:15px; font-family: 'Lato', sans-serif; font-size: 16px;}
 
 /*.............................box2..........................*/
 .box2 {background-color: white;
-        height: auto;}
+        height: auto;
+        width: 1520px;
+    }
 
 #product {width:300px;
         height: 500px;
@@ -93,12 +95,12 @@ p {margin-left:15px; font-family: 'Lato', sans-serif; font-size: 16px;}
 }
 
 /*...................................box3........................*/
-.box3 {background-color:#e6d5b8;}
+.box3 {background-color:#e6d5b8; width:1520px;}
 
 
 
 /* ..............................box4...........................*/
-.box4 {background-color: white; height:600px;}
+.box4 {background-color: white; height:600px; width: 1520px;}
 
 .test {display:flex;
         justify-content:center;
@@ -123,6 +125,7 @@ p {margin-left:15px; font-family: 'Lato', sans-serif; font-size: 16px;}
 /*........................box 5........................*/
 
 .box5 {background-color:#4a3933;
+        width: 1520px;
         padding-top: 1px;
         height: 120px;
         display:flex;
@@ -144,7 +147,8 @@ p {margin-left:15px; font-family: 'Lato', sans-serif; font-size: 16px;}
 
 
 /*..........................footer....................... */
-.footer { width: auto;}
+.footer { width: 1520px;
+            background-color: white;}
 
 
 .copyright { margin-right: auto;
